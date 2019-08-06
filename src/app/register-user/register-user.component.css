@@ -1,0 +1,18 @@
+a {
+    display: block;
+    color: rgb(0, 132, 255);
+}
+button {
+    background-color: #89CA24;
+}
+.para {
+    font-size: 12px;
+}
+.form-register {
+    width: 100%;
+    max-width: 420px;
+    padding: 20px;
+    margin: 10% auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
